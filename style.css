@@ -81,10 +81,10 @@
 }
 
 .site-logo{
-    width:64px;
-    height:64px;
+    width:60px;
+    height:60px;
     object-fit:contain;
-    border-radius:50%;
+    display:block;
 }
 /* Header logo fix */
 .brand{
