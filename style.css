@@ -42,11 +42,13 @@
 }
 
 .leader-content h4{
-    color:var(--accent);
-    font-size:1.05rem;
-    margin-bottom:18px;
-    font-weight:800;
-}
+    color: var(--accent);
+    font-size: 1.15rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+    display: block;
+    width: 100%;
+    white-space: normal;
 
 .leader-content p{
     margin-bottom:16px;
