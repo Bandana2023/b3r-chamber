@@ -34,7 +34,14 @@
     letter-spacing:.05em;
     box-shadow:var(--shadow);
 }
-
+.leader-image{
+    width:220px;
+    height:220px;
+    object-fit:cover;
+    border-radius:50%;
+    border:6px solid #ffffff;
+    box-shadow:var(--shadow);
+}
 .leader-content h3{
     font-size:2rem;
     color:var(--primary);
